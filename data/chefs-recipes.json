@@ -1,0 +1,376 @@
+[
+	{
+	  "id": 1,
+	  "name": "Michael Chernow",
+	  "photo": "https://i.ibb.co/y6Mstm4/Michael.png",
+	  "yearsOfExperience": 10,
+	  "recipesItems": 4,
+	  "description": " The Meatball Shop has slowly but surely taken over New York City, having just opened its fifth location and still growing. Chernow, who runs the front of house operations, not only has a background in modeling (can't you tell?!), but is also changing the game in the restaurant industry. Along with his Le Bernardin-trained partner, Chef Daniel Holzman, Chernow seems to be unstoppable, as their Meatball empire expands across Manhattan and maybe soon to a neighborhood near you.I keep it real simple. I love cooking whole fish on the grill.",
+	  "likes": 10000,
+	  "numbersOfRecipes": [
+	{
+		  "name": "Hamburger",
+		  "img": "https://i.ibb.co/pzRbKz4/hamburger.png",
+		  "ingredients": [
+			"Ground mutton",
+			"Hamburger buns",
+			"Cheese slices",
+			"Lettuce, tomatoes, onions", "condiments of your choice (ketchup, mustard, mayonnaise, etc.)"
+		  ],
+		  "cookingMethod": "1.Form ground mutton into patties, season with salt and pepper. 2. Cook on a grill or stovetop skillet until desired doneness.3.Toast hamburger buns. 4. Assemble the burgers with cheese, lettuce, tomatoes, onions, and condiments.",
+		  "rating": 4.5
+		},
+
+	{
+		  "name": "New York-Style Pizza",
+		  "img": "https://i.ibb.co/1mtyPZs/new-York-Style-Pizza.png",
+		  "ingredients": [
+			"Pizza dough",
+			"Tomato sauce",
+			"Mozzarella cheese",
+			"Toppings of your choice (pepperoni, mushrooms, etc.)"
+		  ],
+		  "cookingMethod": "1. Roll out the dough, spread sauce, add cheese and toppings. 2. Bake in a preheated oven until the crust is golden and the cheese is bubbly.",
+		  "rating": 4.9
+		},
+		{
+		  "name": "Fried Chicken and Waffles",
+		  "img": "https://i.ibb.co/yFNLNBv/Fried-Chicken-and-Waffles.png",
+		  "ingredients": [
+			"Fried chicken pieces",
+			"Waffles",
+			"Maple syrup"
+		  ],
+		  "cookingMethod": "1. Fry the chicken until crispy. 2. Serve over waffles and drizzle with maple syrup.",
+		  "rating": 5
+		},
+		{
+		  "name": "Baked Beans",
+		  "img": "https://i.ibb.co/ZX6MBm3/Baked-Beans.png",
+		  "ingredients": [
+			"Canned baked beans",
+			"Bacon",
+			"Brown sugar",
+			"Mustard"
+		  ],
+		  "cookingMethod": "1. Mix beans, brown sugar, mustard, and bacon, and bake until bubbly.",
+		  "rating": 5
+		}
+	  ]
+
+	  },
+	  {
+		"id": 2,
+		"name": "Gavin Kaysen",
+		"photo": "https://i.ibb.co/4T90DBJ/Gavin.png",
+		"yearsOfExperience": 9,
+		"recipesItems": 4,
+		"description": "This James Beard Award-winning and Michelin-starred chef has cooked with some of the best culinary talent in the world. As the executive chef of Café Boulud, Kaysen's creative and exquisite menus are made even more appealing (if possible) by his charming presence. Add his restaurant to your bucket list to see his incredible talent all plated up. Plus, we love his menu for “cooking together” on date night… mmm, wild mushroom risotto, anyone?  I'd start with a velvety squash soup with toasted walnuts and apples.",
+		"likes": 8500,
+		"numbersOfRecipes": [
+		  {
+				"name": "Texas Chili",
+				"img": "https://i.ibb.co/MhvHWnC/texas-chili-recipe.jpg",
+				"ingredients": [
+				  "Ground Mutton",
+				  "Chili powder",
+				  "Beans",
+				  "Tomatoes"
+				],
+				"cookingMethod": "1. Brown the beef, add chili powder, beans, and tomatoes. 2. Simmer until flavors meld.",
+				"rating": 4.5
+			  },
+
+		  {
+				"name": "Reuben Sandwich ",
+				"img": "https://i.ibb.co/QchR5gx/Reuben-Sandwich.png",
+				"ingredients": [
+				  "Corned Mutton",
+				  "Sauerkraut",
+				  "Swiss cheese",
+				  "Russian dressing",
+				  "Rye bread",
+				  "Salt and freshly ground black pepper, to taste"
+				],
+				"cookingMethod": "1. Assemble sandwich with the above ingredients and grill until cheese melts.",
+				"rating": 4.9
+			  }
+			  ,
+		{
+		  "name": "Philly Cheesesteak",
+		  "img": "https://i.ibb.co/FXJ1FrG/Philly-Cheesesteak.png",
+		  "ingredients": [
+			"Thinly sliced muttonsteak",
+			"Cheese (usually Cheez Whiz)",
+			"Onions, peppers",
+			"Hoagie roll"
+		  ],
+		  "cookingMethod": "1. Sauté beefsteak with onions and peppers, then melt cheese on top. 2. Serve on a hoagie roll.",
+		  "rating": 4.5
+		},
+		{
+		  "name": "Pecan Pie",
+		  "img": "https://i.ibb.co/zfPXyvS/Pecan-Pie.png",
+		  "ingredients": [
+			"Pecans",
+			"Sugar",
+			"Corn syrup",
+			"Eggs"
+		  ],
+		  "cookingMethod": "1. Mix ingredients, pour into a pie crust, and bake until set.",
+		  "rating": 4.5
+		}
+			]
+
+	  },
+	  {
+		"id": 3,
+		"name": "Ed Kenney",
+		"photo": "https://i.ibb.co/HhHxf7C/Kenney.png",
+		"yearsOfExperience": 7,
+		"recipesItems": 4,
+		"description": "This Hawaiian surfer, who can be found on the island of Oahu, is not only an incredibly talented, award-winning chef, he's also a huge proponent of eating local and organic food. Kenney works to improve his community and sustain his local culture and roots daily. When you visit his restaurant, Town, you can taste this passion for the environment in every bite. A philanthropist at heart, Kenney serves as director for various Hawaiian foundations such as MA'O Organic Farms, Kokua Hawaii Foundation, and Sustain Hawaii. ",
+		"likes": 6000000,
+		"numbersOfRecipes": [
+		  {
+				"name": "Key Lime Pie",
+				"img": "https://i.ibb.co/PcyfxZ9/Key-Lime-Pie.png",
+				"ingredients": [
+				  "Key lime juice",
+				  "Condensed milk",
+				  "Graham cracker crust",
+				  "Whipped cream"
+				],
+				"cookingMethod": "1. Mix lime juice and condensed milk, pour into the crust, and refrigerate. 2. Top with whipped cream before serving.",
+				"rating": 4.2
+			  },
+
+		  {
+				"name": "Jambalaya",
+				"img": "https://i.ibb.co/dpRfZZv/Jambalaya.png",
+				"ingredients": [
+				  "Rice",
+				  "Andouille sausage",
+				  "Shrimp",
+				  "Bell peppers, onions",
+				  "Cajun spices"
+				],
+				"cookingMethod": "1. Sauté sausage and vegetables, add rice and spices. 2. Stir in broth and cook until rice is tender, then add shrimp.",
+				"rating": 4.9
+			  }
+			  ,
+		{
+		  "name": "Buffalo Wings",
+		  "img": "https://i.ibb.co/f4H6pwm/Buffalo-Wings.png",
+		  "ingredients": [
+			"Chicken wings",
+			"Hot sauce",
+			"Butter"
+		  ],
+		  "cookingMethod": "1. Fry wings until crispy. 2. Toss in a mixture of hot sauce and melted butter.",
+		  "rating": 4.5
+		},
+		{
+		  "name": "Crawfish Boil",
+		  "img": "https://i.ibb.co/rx1Mm59/Crawfish-Boil.png",
+		  "ingredients": [
+			"Crawfish",
+			"Potatoes",
+			"Corn on the cob",
+			"Cajun spices"
+		  ],
+		  "cookingMethod": "1. Boil crawfish, potatoes, and corn with Cajun spices, then drain and serve.",
+		  "rating": 4.5
+		}
+			]
+	  },
+	  {
+		"id": 4,
+		"name": "Louis Maldonado",
+		"photo": "https://i.ibb.co/nfm9qkX/Louis.png",
+		"yearsOfExperience": 5,
+		"recipesItems": 4,
+		"description": "We caught Maldonado just before things really took off: He's currently lined up to be on the upcoming season of Top Chef, New Orleans (Season 11). Known for his eats at the Healdsburg, Calif. establishment Spoonbar, Maldonado has also cooked in the kitchens of Thomas Keller’s famed French Laundry and Café Majestic. He recently worked as the chef de cuisine of the Michelin-starred Aziza in San Francisco.To be honest, I really love to go out and eat when I take a day off. Not to check out a hot new restaurant or see what people are doing.",
+		"likes": 200000,
+		"numbersOfRecipes": [
+		  {
+				"name": "Clam Bake",
+				"img": "https://i.ibb.co/PN2wRC9/Clam-Bake.png",
+				"ingredients": [
+				  "Clams",
+				  "Lobster",
+				  "Corn on the cob",
+				  "Potatoes",
+				  "Seasonings"
+				],
+				"cookingMethod": "1. Layer ingredients in a large pot and steam or boil until cooked.",
+				"rating": 4.7
+			  },
+
+		  {
+				"name": "Chicago-Style Hot Dog",
+				"img": "https://i.ibb.co/G9Qszf6/Chicago-Style-Hot-Dog.png",
+				"ingredients": [
+				  "Hot dog",
+				  "Poppy seed bun",
+				  "Mustard, onions, pickle relish, tomato, and more."
+				],
+				"cookingMethod": "1. Assemble the hot dog with various toppings in a poppy seed bun.",
+				"rating": 4.9
+			  }
+			  ,
+		{
+		  "name": "Tater Tots",
+		  "img": "https://i.ibb.co/47kX3C5/Tater-Tots.png",
+		  "ingredients": [
+			"potato",
+			"Oil",
+			"Seasonings",
+			"Parsley",
+			"Frozen tater tots"
+		  ],
+		  "cookingMethod": "1. Bake or fry tater tots according to package instructions. 2. Tater tots are small cylinders of potatoes grated and deep fried, often served as a side dish.",
+		  "rating": 4.5
+		},
+		{
+		  "name": "Muffuletta",
+		  "img": "https://i.ibb.co/5YM3ggQ/Muffuletta.png",
+		  "ingredients": [
+			"Various cured meats",
+			"Cheese",
+			"Olive salad",
+			"Italian bread"
+		  ],
+		  "cookingMethod": "1. Assemble sandwich with meats, cheese, and olive salad on Italian bread.",
+		  "rating": 4.5
+		}
+			]
+	  },
+	  {
+		"id": 5,
+		"name": "Zach Pollack",
+		"photo": "https://i.ibb.co/Mg7gXZg/Zach.png",
+		"yearsOfExperience": 6,
+		"recipesItems": 4,
+		"description": "Pollack is the executive chef and owner of the trendy Sotto restaurant in Los Angeles, a southern Italian restaurant that specializes in Neapolitan cuisine.I'm a big fan of spackcock chicken cooked under a brick in a hot cast iron pan. I'll season the bird the day before (assuming I'm thinking that far in advance) and dry out the skin with my lady's hairdryer 20 minutes before I plan to cook it. The crispy skin and juicy meat never fail to get lots of oohs and ahhs. ",
+		"likes": 200000,
+		"numbersOfRecipes": [
+		  {
+				"name": "Gumbo",
+				"img": "https://i.ibb.co/f2VPdBC/Gumbo.png",
+				"ingredients": [
+				  "Meat or seafood (e.g., chicken, shrimp, andouille sausage)",
+				  "Okra, bell peppers, onions",
+				  "Roux (flour and fat mixture)",
+				  "Cajun spices"
+				],
+				"cookingMethod": "1. Sauté vegetables, add roux, meats, spices, and simmer until flavors meld.",
+				"rating": 4.7
+			  },
+
+		  {
+				"name": "Biscuits and Gravy",
+				"img": "https://i.ibb.co/rQfWGV3/Biscuits-and-Gravy.png",
+				"ingredients": [
+				  "Biscuits",
+				  "Sausage",
+				  "Milk",
+				  "sugar",
+				  "salt"
+				],
+				"cookingMethod": "1. Cook sausage, make a roux with flour and sausage drippings, then add milk to make a creamy gravy.",
+				"rating": 4.9
+			  }
+			  ,
+		  {
+				"name": "Red Velvet Cake",
+				"img": "https://i.ibb.co/Pxjc3bD/Red-Velvet-Cake.png",
+				"ingredients": [
+				  "Red velvet cake mix",
+				  "Cream cheese frosting",
+				  "Layered with ermine icing",
+				  "Buttermilk",
+				  "vinegar",
+				  "butter"
+				],
+				"cookingMethod": "1.Follow the instructions on the cake mix box, then frost with cream cheese frosting.",
+				"rating": 4.3
+			  }
+			  ,
+		{
+		  "name": "Apple Pie",
+		  "img": "https://i.ibb.co/KNkRBXw/Apple-Pie.png",
+		  "ingredients": [
+			"Apples",
+			"Pastry crust",
+			"Sugar,",
+			"cinnamon"
+		  ],
+		  "cookingMethod": "1. Slice apples, mix with sugar and cinnamon, and bake in a pastry crust.",
+		  "rating": 4.5
+		}
+			]
+	  },
+	  {
+		"id": 6,
+		"name": "Brandon Sharp",
+		"photo": "https://i.ibb.co/J7T4s6n/Brandon.png",
+		"yearsOfExperience": 15,
+		"recipesItems": 4,
+		"description": "This cute chef is known for his elegant cuisine at Solbar in captivating Calistoga, Calif. Prior to Solbar, Sharp cooked at some of Northern California’s finest restaurants, serving as sous chef at the five-star Gary Danko in San Francisco and as chef de cuisine at Restaurant August, a New Orleans culinary institution. He also worked alongside Thomas Keller at Napa Valley’s world-renowned French Laundry. If you’re planning a Cali getaway anytime soon, be sure to check out his gorgeous, Michelin-starred restaurant. ",
+		"likes": 100000,
+		"numbersOfRecipes": [
+		  {
+				"name": "Shrimp and Grits",
+				"img": "https://i.ibb.co/nnWthng/Shrimp-and-Grits.png",
+				"ingredients": [
+				  "Shrimp",
+				  "Grits",
+				  "Cheese"
+				],
+				"cookingMethod": "1. Cook grits and stir in cheese. 2. Sauté shrimp and serve over the cheesy grits.",
+				"rating": 5
+			  },
+
+		  {
+				"name": "Mixed greens",
+				"img": "https://i.ibb.co/pbMxBKW/Cobb-Salad.png",
+				"ingredients": [
+				  "Mixed greens",
+				  "Bacon",
+				  "Chicken",
+				  "Eggs",
+				  "Avocado",
+				  "Blue cheese dressing",
+				  "Made with red wine vinaigrette"
+				],
+				"cookingMethod": "1. Assemble the salad with the above ingredients and drizzle with blue cheese dressing.",
+				"rating": 4.9
+			  }
+			  ,
+		{
+		  "name": "Sloppy Joes",
+		  "img": "https://i.ibb.co/80MkjdF/Sloppy-Joes.png",
+		  "ingredients": [
+			"Ground mutton or turkey",
+			"Tomato sauce",
+			"Onions, peppers",
+			"Buns"
+		  ],
+		  "cookingMethod": "1. Brown meat with onions and peppers, add tomato sauce, and serve on buns.",
+		  "rating": 4.5
+		},
+		{
+		  "name": "Pulled BBQ Chicken",
+		  "img": "https://i.ibb.co/sWGd3dc/Pulled-BBQ-Chicken.png",
+		  "ingredients": [
+			"Chicken",
+			"BBQ sauce",
+			"Buns"
+		  ],
+		  "cookingMethod": "1. Slow-cook chicken, shred it, and mix with BBQ sauce. Serve on buns.",
+		  "rating": 4.5
+		}
+			]
+	  }
+	]
