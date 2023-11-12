@@ -6,7 +6,7 @@
 	  "yearsOfExperience": 10,
 	  "recipesItems": 4,
 	  "description": " The Meatball Shop has slowly but surely taken over New York City, having just opened its fifth location and still growing. Chernow, who runs the front of house operations, not only has a background in modeling (can't you tell?!), but is also changing the game in the restaurant industry. Along with his Le Bernardin-trained partner, Chef Daniel Holzman, Chernow seems to be unstoppable, as their Meatball empire expands across Manhattan and maybe soon to a neighborhood near you.I keep it real simple. I love cooking whole fish on the grill.",
-	  "likes": 10000,
+	  "likes": 100000,
 	  "numbersOfRecipes": [
 	{
 		  "name": "Hamburger",
@@ -28,7 +28,8 @@
 			"Pizza dough",
 			"Tomato sauce",
 			"Mozzarella cheese",
-			"Toppings of your choice (pepperoni, mushrooms, etc.)"
+			"mushrooms",
+			"Toppings of your choice (pepperoni etc.)"
 		  ],
 		  "cookingMethod": "1. Roll out the dough, spread sauce, add cheese and toppings. 2. Bake in a preheated oven until the crust is golden and the cheese is bubbly.",
 		  "rating": 4.9
@@ -39,6 +40,9 @@
 		  "ingredients": [
 			"Fried chicken pieces",
 			"Waffles",
+			"Gravy",
+			"Red Beans",
+			"Rice",
 			"Maple syrup"
 		  ],
 		  "cookingMethod": "1. Fry the chicken until crispy. 2. Serve over waffles and drizzle with maple syrup.",
@@ -51,7 +55,9 @@
 			"Canned baked beans",
 			"Bacon",
 			"Brown sugar",
-			"Mustard"
+			"Mustard",
+			"Tomato Paste",
+			"Chicken"
 		  ],
 		  "cookingMethod": "1. Mix beans, brown sugar, mustard, and bacon, and bake until bubbly.",
 		  "rating": 5
@@ -66,7 +72,7 @@
 		"yearsOfExperience": 9,
 		"recipesItems": 4,
 		"description": "This James Beard Award-winning and Michelin-starred chef has cooked with some of the best culinary talent in the world. As the executive chef of Café Boulud, Kaysen's creative and exquisite menus are made even more appealing (if possible) by his charming presence. Add his restaurant to your bucket list to see his incredible talent all plated up. Plus, we love his menu for “cooking together” on date night… mmm, wild mushroom risotto, anyone?  I'd start with a velvety squash soup with toasted walnuts and apples.",
-		"likes": 8500,
+		"likes": 85000,
 		"numbersOfRecipes": [
 		  {
 				"name": "Texas Chili",
@@ -75,7 +81,9 @@
 				  "Ground Mutton",
 				  "Chili powder",
 				  "Beans",
-				  "Tomatoes"
+				  "Tomatoes",
+				  "Onions",
+				  "Cumin"
 				],
 				"cookingMethod": "1. Brown the beef, add chili powder, beans, and tomatoes. 2. Simmer until flavors meld.",
 				"rating": 4.5
@@ -103,7 +111,9 @@
 			"Thinly sliced muttonsteak",
 			"Cheese (usually Cheez Whiz)",
 			"Onions, peppers",
-			"Hoagie roll"
+			"Sautee onions and remove.",
+			"Hoagie roll",
+			"Butter hoagie rolls, dice onion and thinly slice Mutton"
 		  ],
 		  "cookingMethod": "1. Sauté beefsteak with onions and peppers, then melt cheese on top. 2. Serve on a hoagie roll.",
 		  "rating": 4.5
@@ -115,7 +125,9 @@
 			"Pecans",
 			"Sugar",
 			"Corn syrup",
-			"Eggs"
+			"Eggs",
+			" light brown sugar tightly packed",
+			"teaspoons pure vanilla extract."
 		  ],
 		  "cookingMethod": "1. Mix ingredients, pour into a pie crust, and bake until set.",
 		  "rating": 4.5
@@ -130,16 +142,20 @@
 		"yearsOfExperience": 7,
 		"recipesItems": 4,
 		"description": "This Hawaiian surfer, who can be found on the island of Oahu, is not only an incredibly talented, award-winning chef, he's also a huge proponent of eating local and organic food. Kenney works to improve his community and sustain his local culture and roots daily. When you visit his restaurant, Town, you can taste this passion for the environment in every bite. A philanthropist at heart, Kenney serves as director for various Hawaiian foundations such as MA'O Organic Farms, Kokua Hawaii Foundation, and Sustain Hawaii. ",
-		"likes": 6000000,
+		"likes": 150000,
 		"numbersOfRecipes": [
 		  {
 				"name": "Key Lime Pie",
 				"img": "https://i.ibb.co/PcyfxZ9/Key-Lime-Pie.png",
 				"ingredients": [
-				  "Key lime juice",
-				  "Condensed milk",
-				  "Graham cracker crust",
-				  "Whipped cream"
+					"300g oatmeal biscuits.",
+					"110g butter, melted.",
+					"1 x 397g can condensed milk (we used Nestlé)",
+					"3 medium egg yolks.",
+					"finely grated zest and juice of 4 limes.",
+					"300ml double cream.",
+					"1 tbsp icing sugar.",
+					"extra lime zest, to decorate."
 				],
 				"cookingMethod": "1. Mix lime juice and condensed milk, pour into the crust, and refrigerate. 2. Top with whipped cream before serving.",
 				"rating": 4.2
@@ -153,7 +169,9 @@
 				  "Andouille sausage",
 				  "Shrimp",
 				  "Bell peppers, onions",
-				  "Cajun spices"
+				  "Cajun spices",
+				  "Crushed tomatoes",
+				  "Okra"
 				],
 				"cookingMethod": "1. Sauté sausage and vegetables, add rice and spices. 2. Stir in broth and cook until rice is tender, then add shrimp.",
 				"rating": 4.9
@@ -163,9 +181,12 @@
 		  "name": "Buffalo Wings",
 		  "img": "https://i.ibb.co/f4H6pwm/Buffalo-Wings.png",
 		  "ingredients": [
-			"Chicken wings",
-			"Hot sauce",
-			"Butter"
+			"2 lb.chicken wings",
+			"2 tbsp.vegetable oil",
+			"1 tsp.garlic powder Kosher salt Freshly ground black pepper",
+			"1/4 c.hot sauce (such as Frank's)",
+			"2 tbsp.honey",
+			"4 tbsp.butterRanch dressing, for serving Carrot sticks, for serving Celery sticks, for serving"
 		  ],
 		  "cookingMethod": "1. Fry wings until crispy. 2. Toss in a mixture of hot sauce and melted butter.",
 		  "rating": 4.5
@@ -174,10 +195,18 @@
 		  "name": "Crawfish Boil",
 		  "img": "https://i.ibb.co/rx1Mm59/Crawfish-Boil.png",
 		  "ingredients": [
-			"Crawfish",
-			"Potatoes",
-			"Corn on the cob",
-			"Cajun spices"
+
+
+				"9 gallons water",
+				"4 (4-oz.) packages seafood boil, such as Zatarain's Crawfish, Shrimp, and Crab Boil",
+				"4 cups kosher salt",
+				"1/2 cup Creole seasoning",
+				"8 bay leaves",
+				"10 lemons, halved",
+				"4 garlic heads, halved crosswise",
+				"8 small yellow onions, halved",
+				"4 pounds small red potatoes, halved"
+
 		  ],
 		  "cookingMethod": "1. Boil crawfish, potatoes, and corn with Cajun spices, then drain and serve.",
 		  "rating": 4.5
@@ -197,11 +226,12 @@
 				"name": "Clam Bake",
 				"img": "https://i.ibb.co/PN2wRC9/Clam-Bake.png",
 				"ingredients": [
-				  "Clams",
-				  "Lobster",
-				  "Corn on the cob",
-				  "Potatoes",
-				  "Seasonings"
+					"8 medium red potatoes, scrubbed",
+					"1 pound clams in shell, scrubbed",
+					"1 pound mussels, cleaned and debearded ½ pound unpeeled large shrimp",
+					"1 (48 fluid ounce) can chicken broth ¼ cup dry vermouth (Optional)",
+					"1 ½ cups butter, divided",
+					"1 loaf French bread"
 				],
 				"cookingMethod": "1. Layer ingredients in a large pot and steam or boil until cooked.",
 				"rating": 4.7
@@ -211,9 +241,14 @@
 				"name": "Chicago-Style Hot Dog",
 				"img": "https://i.ibb.co/G9Qszf6/Chicago-Style-Hot-Dog.png",
 				"ingredients": [
-				  "Hot dog",
-				  "Poppy seed bun",
-				  "Mustard, onions, pickle relish, tomato, and more."
+					"1 all-beef hot dog.",
+					"1 poppy seed hot dog bun.",
+					"1 tablespoon yellow mustard.",
+					"1 tablespoon sweet green pickle relish.",
+					"1 tablespoon chopped onion.",
+					"2 tomato wedges.",
+					"1 dill pickle spear.",
+					"2 sport peppers."
 				],
 				"cookingMethod": "1. Assemble the hot dog with various toppings in a poppy seed bun.",
 				"rating": 4.9
@@ -223,11 +258,11 @@
 		  "name": "Tater Tots",
 		  "img": "https://i.ibb.co/47kX3C5/Tater-Tots.png",
 		  "ingredients": [
-			"potato",
-			"Oil",
-			"Seasonings",
-			"Parsley",
-			"Frozen tater tots"
+			"Potatoes: Start with two medium russet potatoes. ",
+			"Parsley: Fresh parsley adds color and flavor. ",
+			"Flour: All-purpose flour helps hold the tots together and is essential for crispiness. ",
+			"Seasonings: The tater tots are seasoned with salt, seasoned pepper, and onion powder. ",
+			"Oil: Peanut oil is perfect for frying homemade tater tots. "
 		  ],
 		  "cookingMethod": "1. Bake or fry tater tots according to package instructions. 2. Tater tots are small cylinders of potatoes grated and deep fried, often served as a side dish.",
 		  "rating": 4.5
@@ -236,10 +271,13 @@
 		  "name": "Muffuletta",
 		  "img": "https://i.ibb.co/5YM3ggQ/Muffuletta.png",
 		  "ingredients": [
-			"Various cured meats",
-			"Cheese",
-			"Olive salad",
-			"Italian bread"
+			"3/4 cup pitted mixed oil-packed olives.",
+			"1/2 cup giardiniera (Italian-style pickled vegetable salad, see notes)",
+			"1/4 cup chopped roasted red peppers.",
+			"2 tablespoons parsley leaves.",
+			"1 tablespoon capers.",
+			"1 medium garlic clove, minced (about 1 teaspoon)",
+			"3 tablespoons extra-virgin olive oil."
 		  ],
 		  "cookingMethod": "1. Assemble sandwich with meats, cheese, and olive salad on Italian bread.",
 		  "rating": 4.5
@@ -260,6 +298,7 @@
 				"img": "https://i.ibb.co/f2VPdBC/Gumbo.png",
 				"ingredients": [
 				  "Meat or seafood (e.g., chicken, shrimp, andouille sausage)",
+				  "Vagetables",
 				  "Okra, bell peppers, onions",
 				  "Roux (flour and fat mixture)",
 				  "Cajun spices"
@@ -304,7 +343,9 @@
 			"Apples",
 			"Pastry crust",
 			"Sugar,",
-			"cinnamon"
+			"cinnamon",
+			"Splenda.",
+			"ginger"
 		  ],
 		  "cookingMethod": "1. Slice apples, mix with sugar and cinnamon, and bake in a pastry crust.",
 		  "rating": 4.5
@@ -326,7 +367,10 @@
 				"ingredients": [
 				  "Shrimp",
 				  "Grits",
-				  "Cheese"
+				  "Cheese",
+				  "Butter",
+				  "bacon",
+				  "chopped"
 				],
 				"cookingMethod": "1. Cook grits and stir in cheese. 2. Sauté shrimp and serve over the cheesy grits.",
 				"rating": 5
@@ -354,7 +398,10 @@
 		  "ingredients": [
 			"Ground mutton or turkey",
 			"Tomato sauce",
-			"Onions, peppers",
+			"Onions",
+			"Teaspoon mustard",
+			"Teaspoons worcestershire sauce",
+			"peppers",
 			"Buns"
 		  ],
 		  "cookingMethod": "1. Brown meat with onions and peppers, add tomato sauce, and serve on buns.",
@@ -365,8 +412,12 @@
 		  "img": "https://i.ibb.co/sWGd3dc/Pulled-BBQ-Chicken.png",
 		  "ingredients": [
 			"Chicken",
+			"Oil",
 			"BBQ sauce",
-			"Buns"
+			"Buns",
+			"worchestershire sauce",
+			"brown sugar",
+			"Salt and freshly ground black pepper, to taste"
 		  ],
 		  "cookingMethod": "1. Slow-cook chicken, shred it, and mix with BBQ sauce. Serve on buns.",
 		  "rating": 4.5
